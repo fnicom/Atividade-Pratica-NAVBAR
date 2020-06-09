@@ -36,6 +36,10 @@ body {
       font-family: "Montserrat", Helvetica, sans-serif;
       font-size: 1.8rem;
     }
+.about{
+  text-align: center;
+  color: #fdfdfd;
+}    
 #particles-js {
   background:rgb(59, 58, 58);
   display: flex;
@@ -172,15 +176,11 @@ section{
     font-size: 3rem;
   }
 }
-.about {
-  text-align: center;
-}
 .contactBody{
   background-color: rgb(59, 58, 58);
   background-size: cover;
   background-attachment: fixed;
   height:700px;
-
 }
 .title{
   margin: 0 auto;
